@@ -14,6 +14,7 @@
 
 ### References
 Muktar, M. (2023, October). CarDD-ReallyReal Dataset. Roboflow Universe. Retrieved from https://universe.roboflow.com/moizuddin-muktar-stt7g/cardd-reallyreal
+```
 @misc{ cardd-reallyreal_dataset,
     title = { CarDD-ReallyReal Dataset },
     type = { Open Source Dataset },
@@ -26,3 +27,4 @@ Muktar, M. (2023, October). CarDD-ReallyReal Dataset. Roboflow Universe. Retriev
     month = { oct },
     note = { visited on 2023-11-29 },
 }
+```
