@@ -11,8 +11,6 @@
 ### Future Work
 
 ### Datasets
-
-### References
 M. Muktar, ‘CarDD-ReallyReal Dataset’, Roboflow Universe. Roboflow, Oct-2023.
 ```
 @misc{ cardd-reallyreal_dataset,
@@ -40,3 +38,5 @@ X. Wang, W. Li and Z. Wu, "CarDD: A New Dataset for Vision-Based Car Damage Dete
   pages={7202-7214},
   doi={10.1109/TITS.2023.3258480}}
 ```
+
+### References
