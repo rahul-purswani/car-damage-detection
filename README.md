@@ -1,6 +1,8 @@
 # Car Damage Edge Detection
 
-### Demo (good and bad detections)
+### Good Detections
+
+### Bad Detections
 
 ### Workflow
 
