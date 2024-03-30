@@ -1,10 +1,7 @@
 # Car Damage Edge Detection
 
 ### Good Detections
-![9](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/b1c1f215-ceff-4f55-94dd-9e58f186d218)
-![1](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/8abea453-3cc1-4318-b497-1409817668ad)
-![10](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/f5122957-d314-43eb-b476-99740de54620)
-![19](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/7324c1c1-8107-401c-9e25-a159471a83b0)
+<img width="1119" alt="Screenshot 2024-03-29 at 10 42 55 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/108190ab-d70c-49d6-8773-d79280d5c514">
 
 ### Bad Detections
 
