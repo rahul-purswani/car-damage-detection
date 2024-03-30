@@ -15,9 +15,16 @@
 ### Training and Evaluation
 <img width="1117" alt="Screenshot 2024-03-29 at 10 43 20 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/8a5b2789-29a8-428c-8986-259258986e15">
 
+### Deployment Demo
+
+![IMG_0182](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/262da038-1ac9-45e3-b3d5-a8eea2a02a4d)
+![IMG_0181](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/2dd93b54-29b0-4dbf-ba65-94babf7c6c2a)
+![IMG_0184](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/0d7c61b9-b27e-41c5-8669-a37c76a7a85b)
+
+
 ### Future Work
 
-### Datasets
+### References
 M. Muktar, ‘CarDD-ReallyReal Dataset’, Roboflow Universe. Roboflow, Oct-2023.
 ```
 @misc{ cardd-reallyreal_dataset,
