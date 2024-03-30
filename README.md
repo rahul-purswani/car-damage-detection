@@ -9,11 +9,11 @@
 ### Workflow
 
 ### Model
+<img width="430" alt="image" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/1a03557a-62b4-4dc9-8b59-19bd19e5d73a">
+
 
 ### Training and Evaluation
 <img width="1117" alt="Screenshot 2024-03-29 at 10 43 20 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/8a5b2789-29a8-428c-8986-259258986e15">
-<img width="430" alt="image" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/1a03557a-62b4-4dc9-8b59-19bd19e5d73a">
-
 
 ### Future Work
 
