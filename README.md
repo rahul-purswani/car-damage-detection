@@ -1,4 +1,4 @@
-# Car Damage Edge Detection
+# Car Damage Detection on Edge
 
 
 
