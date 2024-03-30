@@ -23,9 +23,6 @@
 ![IMG_0181](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/2dd93b54-29b0-4dbf-ba65-94babf7c6c2a)
 ![IMG_0184](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/0d7c61b9-b27e-41c5-8669-a37c76a7a85b)
 
-
-### Future Work
-
 ### References
 M. Muktar, ‘CarDD-ReallyReal Dataset’, Roboflow Universe. Roboflow, Oct-2023.
 ```
