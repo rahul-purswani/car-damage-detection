@@ -1,5 +1,7 @@
 # Car Damage Edge Detection
 
+
+
 ### Good Detections
 <img width="1119" alt="Screenshot 2024-03-29 at 10 42 55 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/108190ab-d70c-49d6-8773-d79280d5c514">
 
@@ -52,5 +54,3 @@ X. Wang, W. Li and Z. Wu, "CarDD: A New Dataset for Vision-Based Car Damage Dete
   pages={7202-7214},
   doi={10.1109/TITS.2023.3258480}}
 ```
-
-### References
