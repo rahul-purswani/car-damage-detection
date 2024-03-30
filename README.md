@@ -4,11 +4,15 @@
 <img width="1119" alt="Screenshot 2024-03-29 at 10 42 55 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/108190ab-d70c-49d6-8773-d79280d5c514">
 
 ### Bad Detections
-
+<img width="1026" alt="Screenshot 2024-03-29 at 10 44 52 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/7d7d620c-fa5a-4890-9a63-e333f94c5fd7">
 
 ### Workflow
 
 ### Model
+
+### Training and Evaluation
+<img width="1117" alt="Screenshot 2024-03-29 at 10 43 20 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/8a5b2789-29a8-428c-8986-259258986e15">
+
 
 ### Future Work
 
