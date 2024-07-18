@@ -1,8 +1,10 @@
 # Car Damage Detection on Edge
 ### Overview
+The Car Damage Detection project focuses on developing a robust model to automatically detect and classify car damages, with the additional capability of deployment on an ESP32S board for real-time inference. The goal is to streamline the assessment of car damages, which can be particularly useful in scenarios such as accident evaluations or insurance claims. The model was succesfully deployed and was successful in detecting the damages in real-time as shown in demos below.
+
+<h>For more details, refer to the [presentation](https://github.com/rahul-purswani/car-damage-detection/blob/main/Presentation.pdf).<h>
 
 ### Deployment Demo
-
 ![IMG_0182](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/262da038-1ac9-45e3-b3d5-a8eea2a02a4d)
 ![IMG_0181](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/2dd93b54-29b0-4dbf-ba65-94babf7c6c2a)
 ![IMG_0184](https://github.com/rahul-purswani/car-damage-detection/assets/70603471/0d7c61b9-b27e-41c5-8669-a37c76a7a85b)
@@ -16,13 +18,8 @@ Below are some examples of unsuccessful detections made by the model, more examp
 <img width="1026" alt="Screenshot 2024-03-29 at 10 44 52 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/7d7d620c-fa5a-4890-9a63-e333f94c5fd7">
 
 ### Training Workflow
-
-### Model
-<img width="430" alt="image" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/1a03557a-62b4-4dc9-8b59-19bd19e5d73a">
-
-
-### Model Evaluation
-<img width="1117" alt="Screenshot 2024-03-29 at 10 43 20 PM" src="https://github.com/rahul-purswani/car-damage-detection/assets/70603471/8a5b2789-29a8-428c-8986-259258986e15">
+The training workflow involved several key steps. First, the necessary dependencies were installed to set up the TensorFlow Object Detection API environment. Pretrained model weights for MobileNetV2_ssd were then loaded to leverage existing knowledge. The training pipeline was configured, and the model was trained for 70,000 steps. Post-training quantization was applied to optimize the model, followed by converting the trained model to TensorFlow Lite (TFLite) format. Finally, the TFLite model was converted to a .cc file for deployment on the ESP32S board, enabling real-time car damage detection.
+<h>For more details, refer to the [presentation](https://github.com/rahul-purswani/car-damage-detection/blob/main/Presentation.pdf).<h>
 
 ### References
 M. Muktar, ‘CarDD-ReallyReal Dataset’, Roboflow Universe. Roboflow, Oct-2023.
