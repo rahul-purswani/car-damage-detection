@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'crack'
+}
+
+item {
+  id: 2
+  name: 'glass shatter'
+}
+
+item {
+  id: 3
+  name: 'dent'
+}
+
+item {
+  id: 4
+  name: 'lamp broken'
+}
+
+item {
+  id: 5
+  name: 'scratch'
+}
+
+item {
+  id: 6
+  name: 'tire flat'
+}
